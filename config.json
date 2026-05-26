@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentppdate",
+        "uuid": 6545175,
+        "checksum": "byck2d"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
